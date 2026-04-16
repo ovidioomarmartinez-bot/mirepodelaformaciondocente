@@ -8,3 +8,9 @@ Creador de una propuesta académica de la era IA, generar una articulacion espec
 
 ## Mis pasatiempos
 Autoformación en tecnología, Indagación de cultura general de la ciencia, exploración de conducta, caminatas y senderismo, otros.
+
+## Un poco los viajes que realizo
+- Metrocenro
+- Galerías
+- Ir al trabajo
+- Zonas Turísticas
