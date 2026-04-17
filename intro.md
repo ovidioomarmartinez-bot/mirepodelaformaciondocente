@@ -14,3 +14,7 @@ Autoformación en tecnología, Indagación de cultura general de la ciencia, exp
 - Galerías
 - Ir al trabajo
 - Zonas Turísticas
+## Tareas que he realizado en la formación
+- Tarea sobre IA
+- Tarea sobre n8n
+- Tarea sobre Git
